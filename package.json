@@ -19,6 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://xsea29.github.io/Age-Calculator",
   "eslintConfig": {
     "extends": [
       "react-app",
